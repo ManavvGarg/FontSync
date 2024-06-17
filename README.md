@@ -13,7 +13,7 @@ If you'd like to customize the program, follow these steps. Otherwise, simply do
 3. Run the following command in your terminal to generate the executable:
 
    ```bash
-   pyinstaller --noconfirm --onefile --windowed --icon "<path-to-your-icon>" --name "FontSync" --clean --add-data "<path-to-your-icon>;." --add-data "<path-to-the-image-used-in-application>;." --paths "<path-of-dir-where-the-python-file-exists>" "<path-of-dir-where-the-python-file-exists>/FontSync.py"
+   pyinstaller --noconfirm --onefile --windowed --icon "<path-to-your-icon>" --name "FontSync" --clean "<path-of-dir-where-the-python-file-exists>/FontSync.py"
    ```
 
 ## Credits
