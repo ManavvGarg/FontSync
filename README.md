@@ -1,5 +1,6 @@
 # FontSync
- Transfer fonts from your old PC to new with ease
+ Transfer fonts from your old PC to new with ease.
+ for a designer, by a designer
 
 # Build
 1. Modify the code acc to your needs or whatever you need
