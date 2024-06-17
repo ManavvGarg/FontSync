@@ -15,6 +15,7 @@ If you'd like to customize the program, follow these steps. Otherwise, simply do
    ```bash
    pyinstaller --noconfirm --onefile --windowed --icon "<path-to-your-icon>" --name "FontSync" --clean "<path-of-dir-where-the-python-file-exists>/FontSync.py"
    ```
+4. Your executable will be availabe in the "dist" folder.
 
 ## Credits
 
